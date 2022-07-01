@@ -1,0 +1,65 @@
+#main{
+    position: absolute;
+    width: 45%;
+}
+
+#side{
+    left: 60%;
+    position: absolute;
+    top: 110px;
+    width: 40%;
+}
+
+#side img{
+    height: 430px;
+    width: 430px;
+}
+
+
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    color: #1B4965;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+h1{
+    font-size: 100px; 
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+h2{
+    font-size: 70px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+h3{
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+h4{
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+a{
+    color:#1B4965;
+}
+
+p{
+    font-size: 12px;
+    margin: 20px 0;
+}
+
+span, p{
+    color: #222222;
+}

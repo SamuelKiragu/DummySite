@@ -1,0 +1,12 @@
+body{
+    background-color: #62B6CB;
+}
+
+#FAQ{
+    margin-top: 50px;
+    line-height: 30px;
+}
+
+ol{
+    margin:10px 0 0 15px;
+}
