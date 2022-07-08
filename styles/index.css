@@ -19,7 +19,7 @@ body{
 }
 
 nav{
-    background: #1B4965;
+    background: #1b496529;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -28,7 +28,7 @@ nav{
 
 nav a{
     background: #bae9f5;
-    color: #1b496529;
+    color: #a7c2d3;
     display: inline-block;
     padding: 10px 20px;
     text-decoration: none;
