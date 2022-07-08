@@ -1,5 +1,5 @@
 #main{
-    width: 60%;
+    width: 40%;
 }
 
 #side{
@@ -8,8 +8,18 @@
 
 #side img{
     height: auto;
-    width: 430px;
+    width: 100%;
 }
+
+.danger{
+    background:#651b1b69;
+    color:#220f0f;
+}
+.success{
+    background:#1b654669;
+    color:#0c420c;
+}
+
 
 a.Btn{
     background:#1B4965;
@@ -27,14 +37,18 @@ a.Btn{
     padding: 0;
 }
 
+a{
+    color:#1B4965;
+}
+
 body{
     color: #1B4965;
     display: flex;
     flex-direction: row;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     height: 100%;
-    margin-left: 100px;
-    margin-top: 100px;
+    justify-content: space-between;
+    margin: 50px 100px 0 100px;
 }
 
 h1{
@@ -46,7 +60,6 @@ h1{
 h2{
     font-size: 70px;
     font-weight: 400;
-    margin-top: 20px;
 }
 
 h3{
@@ -60,9 +73,9 @@ h4{
     margin: 20px 0;
 }
 
-a{
-    color:#1B4965;
-}
+li, p {
+    line-height: 2;
+  }
 
 p{
     font-size: 12px;
